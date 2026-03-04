@@ -96,3 +96,8 @@
 12. Kafka Streams
 
     Bibliothèque Java pour créer des applications de traitement en temps réel directement sur les flux Kafka.
+
+
+## ARCHITECTURE
+
+![Architecture](Kafka.jpeg)
